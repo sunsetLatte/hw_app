@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    compileSdk 31
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.netology.tabbedapplication"
         minSdk 23
-        targetSdk 31
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
@@ -41,4 +41,5 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.2.0-alpha03'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.6.0-alpha03'
     androidTestImplementation 'androidx.test:rules:1.6.0-alpha01'
+    implementation 'androidx.tracing:tracing:1.1.0'
 }

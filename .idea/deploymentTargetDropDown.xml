@@ -3,15 +3,25 @@
   <component name="deploymentTargetDropDown">
     <value>
       <entry key="MainActivityTest">
-        <State />
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\user\.android\avd\Medium_Phone_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-23T15:09:37.934311300Z" />
+        </State>
       </entry>
       <entry key="MainActivityTest2">
         <State />
       </entry>
       <entry key="app">
-        <State />
-      </entry>
-      <entry key="mainActivityTest()">
         <State />
       </entry>
       <entry key="mainActivityTest2()">
